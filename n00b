@@ -1,0 +1,31 @@
+[
+  {
+    "number": 0,
+    "route": "NIS",
+    "front": 1,
+    "frontid1": "rbxassetid://10699114137",
+    "controllerid1": "rbxassetid://10699114137",
+    "side": 1,
+    "sideid1": "rbxassetid://10699114137"
+  },
+  {
+    "number": 1,
+    "route": "78AY",
+    "front": 1,
+    "frontid1": "rbxassetid://10552860678",
+    "controllerid1": "rbxassetid://10552860678",
+    "side": 2,
+    "sideid1": "rbxassetid://10552859869"
+    "sideid2": "rbxassetid://10552860262"
+  },
+  {
+    "number": 2,
+    "route": "78AZ",
+    "front": 1,
+    "frontid1": "rbxassetid://10552862060",
+    "controllerid1": "rbxassetid://10552862060",
+    "side": 2,
+    "sideid1": "rbxassetid://10552861379"
+    "sideid2": "rbxassetid://10552861721"
+  }
+]
